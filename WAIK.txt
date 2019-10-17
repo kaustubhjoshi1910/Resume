@@ -1,0 +1,16 @@
+what all i know
+html
+css
+bootstrap
+jquery 
+javascript
+git
+github
+data structures
+algorithms
+
+
+
+projects
+book borrowing system/ xapple for books
+
